@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_main">12dp</dimen>
+    <dimen name="title">8dp</dimen>
+    <dimen name="author">4dp</dimen>
+</resources>
